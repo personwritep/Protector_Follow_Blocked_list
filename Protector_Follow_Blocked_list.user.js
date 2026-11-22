@@ -8,8 +8,8 @@
 // @match        https://blog.ameba.jp/block
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=ameba.jp
 // @grant        none
-// @updateURL        https://github.com/personwritep/Protector_Follow_Blocked_list/raw/main?Protector_Follow_Blocked_list_0.5/Protector_Follow_Blocked_list.user.js
-// @downloadURL        https://github.com/personwritep/Protector_Follow_Blocked_list/raw/main?Protector_Follow_Blocked_list_0.5/Protector_Follow_Blocked_list.user.js
+// @updateURL        https://github.com/personwritep/Protector_Follow_Blocked_list/raw/main/Protector_Follow_Blocked_list.user.js
+// @downloadURL        https://github.com/personwritep/Protector_Follow_Blocked_list/raw/main/Protector_Follow_Blocked_list.user.js
 // ==/UserScript==
 
 
